@@ -1,3 +1,3 @@
 # Aman_mavi
-Tushar-Chaudhary
+Tushar-Chaudhary:
 This is my first repository
